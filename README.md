@@ -1,7 +1,7 @@
 # PureNordStudio — Cinematic 3D Product Experience
 
-🔗 Live Demo: https://purenordstudio.pure-art.co/  
-📖 Full Case Study: https://pure-art.co/pages/Subpages/3d-viewer-01.html  
+🔗 Live Demo: https://purenordstudio.nourtin.com/  
+📖 Full Case Study: https://nourtin.com/pages/Subpages/purenordstudio-realtime-viewer.html  
 
 Cinematic real-time 3D product experience built for modern brands — combining interactive product exploration, studio tools, and AI-powered visual generation inside one browser-based system.
 
@@ -89,8 +89,14 @@ PureNordStudio demonstrates how real-time 3D can enhance product storytelling, i
 
 ## Outcome
 
-A production-ready browser-based system that combines real-time 3D, interactive exploration, and AI-powered content creation into one seamless experience.
+A portfolio browser-based system that combines real-time 3D, interactive exploration, and AI-powered content creation into one seamless experience.
 
 This approach transforms product presentation from a static display into an interactive and scalable digital tool.
 
 ---
+
+## Scope and measurement notes
+
+This repository contains documentation and screenshots, not the complete application source or licensed assets. Performance figures are snapshots from particular test conditions and are not guarantees across devices, networks, cache states, or scene modes. Initial interaction, startup, and fully loaded time describe different milestones.
+
+[Author: Nour Altinawi — Nourtin](https://nourtin.com/)
