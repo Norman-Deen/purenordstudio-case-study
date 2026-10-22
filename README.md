@@ -5,7 +5,7 @@
 
 Cinematic real-time 3D product experience built for modern brands — combining interactive product exploration, studio tools, and AI-powered visual generation inside one browser-based system.
 
-![PureNordStudio](images/PureNordStudio.jpg)
+![PureNordStudio](images/PureNordStudio-Nourtin.jpg)
 
 ---
 
